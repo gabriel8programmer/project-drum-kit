@@ -49,4 +49,9 @@
     background: #0009;
     cursor: pointer;
     text-transform: uppercase;
+    transition: .5s;
+}
+
+.audio:hover {
+    border-color: #fc0;
 }
